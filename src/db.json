@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": {
+        "name": "hyesungoh",
+        "major": "소프트웨어공학과",
+        "profileSrc": "https://avatars.githubusercontent.com/u/26461307?v=4"
+      },
+      "title": "1번 제목이에여",
+      "content": "Ex est magna elit labore proident et qui amet irure culpa pariatur ut. Culpa aliquip Lorem et mollit est qui commodo ullamco consectetur Lorem velit. Dolore minim enim est anim adipisicing. Est in consectetur excepteur aute id ullamco est. Laboris fugiat veniam occaecat aliqua reprehenderit incididunt. Proident Lorem commodo anim culpa et tempor exercitation. Non nulla eu id ea id dolor occaecat."
+    },
+    {
+      "id": 2,
+      "author": {
+        "name": "hyesungoh",
+        "major": "소프트웨어공학과",
+        "profileSrc": "https://avatars.githubusercontent.com/u/26461307?v=4"
+      },
+      "title": "2번 제목이에여",
+      "content": "Officia consectetur aliqua veniam fugiat commodo. Minim duis elit esse ullamco reprehenderit. Aliqua dolor in ea sunt. Commodo anim ullamco veniam mollit minim exercitation voluptate pariatur est enim Lorem in. Dolor Lorem fugiat ullamco quis."
+    },
+    {
+      "id": 3,
+      "author": {
+        "name": "hyesungoh",
+        "major": "소프트웨어공학과",
+        "profileSrc": "https://avatars.githubusercontent.com/u/26461307?v=4"
+      },
+      "title": "3번 제목이에여",
+      "content": "Reprehenderit minim consequat do exercitation consectetur quis consequat consequat enim est magna. Qui id eu exercitation ut nulla id ex voluptate minim velit nostrud eu proident id. In amet aliquip pariatur magna culpa ullamco fugiat. Labore ipsum cillum sunt commodo excepteur."
+    },
+    {
+      "id": 4,
+      "author": {
+        "name": "hyesungoh",
+        "major": "소프트웨어공학과",
+        "profileSrc": "https://avatars.githubusercontent.com/u/26461307?v=4"
+      },
+      "title": "4번 제목이에여",
+      "content": "Ea nulla voluptate sint excepteur enim incididunt aute. Cupidatat Lorem in irure et mollit. Occaecat ea sunt magna nostrud officia consequat aliqua sunt mollit aute eu consectetur. Laboris consectetur aliquip nisi nisi commodo. In enim est ea qui adipisicing aliquip irure id ea nulla. Nostrud qui nulla ea amet dolor ullamco elit mollit."
+    },
+    {
+      "id": 5,
+      "author": {
+        "name": "hyesungoh",
+        "major": "소프트웨어공학과",
+        "profileSrc": "https://avatars.githubusercontent.com/u/26461307?v=4"
+      },
+      "title": "5번 제목이에여",
+      "content": "Reprehenderit est eu incididunt dolore culpa quis eu magna. Ut quis cillum dolore Lorem anim nostrud. Ipsum reprehenderit sit anim labore aute aliquip. Excepteur duis Lorem culpa ut culpa cupidatat dolor in nulla dolore ut irure. Consectetur fugiat labore amet esse proident Lorem ut. Ut eu magna ea aute cillum. Qui elit eu Lorem et amet esse ut nostrud."
+    },
+    {
+      "id": 6,
+      "author": {
+        "name": "hyesungoh",
+        "major": "소프트웨어공학과",
+        "profileSrc": "https://avatars.githubusercontent.com/u/26461307?v=4"
+      },
+      "title": "6번 제목이에여",
+      "content": "Enim tempor id pariatur laboris consequat reprehenderit veniam ut enim magna pariatur. In dolore velit consectetur consequat minim labore velit eu ad nulla tempor eu proident. Magna ipsum deserunt mollit ullamco labore incididunt ex. Irure anim irure ipsum id eiusmod minim aliquip reprehenderit est culpa. Cupidatat aute laboris nulla laborum non. Enim consequat aute magna amet sunt commodo elit do nulla eu mollit. Aliquip esse eu consequat duis minim."
+    },
+    {
+      "id": 7,
+      "author": {
+        "name": "hyesungoh",
+        "major": "소프트웨어공학과",
+        "profileSrc": "https://avatars.githubusercontent.com/u/26461307?v=4"
+      },
+      "title": "7번 제목이에여",
+      "content": "Ipsum do ullamco et velit commodo excepteur exercitation non duis ex consequat fugiat. Tempor aliquip eiusmod qui laborum deserunt excepteur anim elit amet proident qui. Tempor nisi dolor aliqua occaecat id Lorem laboris est nostrud dolor enim. Velit laborum voluptate minim nisi nisi. Sunt occaecat in ut ullamco laborum laboris dolore eiusmod ea nostrud ea. Deserunt esse esse ut labore eu duis cupidatat excepteur."
+    }
+  ]
+}
