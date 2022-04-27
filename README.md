@@ -5,7 +5,8 @@ for DogVelopers frontend part
 ## How to start
 
 1. clone it
-   2.install dependencies
+
+2.install dependencies
 
 ```bash
 yarn # or
